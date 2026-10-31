@@ -60,8 +60,8 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/SendPasswords)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Close All Apps](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/CloseAllApps)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change the password of the Windows user](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Change_the_password_of_the_windows_user)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete 32](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Delete32)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/SendPasswords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete 32](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Delete32)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DeleteBrowsers)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Defender](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableDefender)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Firewall](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableFirewall)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Invisible Download exe](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Invisible_DownExec)
@@ -70,6 +70,15 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Encrypt All Documents](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Execution/EncryptAllDocuments_Linux)
 
 
+
+## Utilidades educativas
+
+Scripts de PowerShell de solo lectura, pensados para aprender. No modifican el equipo.
+
+|System|Category|Name|
+|:--:|:--:|:--:|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[System Report](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/SystemReport)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[Top Processes](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/TopProcesses)
 
 ## Payloads Explanation
 
