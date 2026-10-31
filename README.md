@@ -79,6 +79,10 @@ Scripts de PowerShell de solo lectura, pensados para aprender. No modifican el e
 |:--:|:--:|:--:|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[System Report](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/SystemReport)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[Top Processes](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/TopProcesses)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[Network Info](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/NetworkInfo)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[Installed Programs](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/InstalledPrograms)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[Startup Programs](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/StartupPrograms)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Utility|[Windows Update Status](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Utilidades/WindowsUpdateStatus)
 
 ## Payloads Explanation
 
